@@ -1,0 +1,11 @@
+#We view a SKU as a set of attribute levels, apply maximum
+likelihood estimation to sales history of the SKUs currently carried by the retailer to estimate
+the demand for attribute levels and substitution probabilities, and from this, the demand for any
+potential SKU, including those not currently carried by the retailer. We specify several alternative
+heuristics for choosing SKUs. We apply this approach to optimize assortments for three real examples:
+snack cakes, tires and automotive appearance chemicals. A portion of our recommendations
+for tires and appearance chemicals were implemented and produced sales increases of 5.8% and 3.6%
+respectively, which are significant improvements relative to typical retailer annual comparable store
+revenue increases. We also forecast sales shares of 1, 11 and 25 new SKUs, for the snack cakes,
+tires and automotive appearance chemicals applications, respectively with MAPEs of 16.2%, 19.1%
+and 28.7%.
